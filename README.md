@@ -1,4 +1,4 @@
-< div id= "header" align="center" >
+< div>
     <h1 align ="center"> Welcome to my Git profile 👋</h1>
     <h3 align ="center"> Hello! I am Marie Lopez, a passionate data analyst with a focus on transforming information into meaningful insights. 
     With a strong background in statistics, programming, and data analysis, I strive to unravel hidden stories in complex data sets. </h3>
