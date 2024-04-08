@@ -5,7 +5,7 @@
     With a strong background in statistics, programming, and data analysis, I strive to unravel hidden stories in complex data sets. </h3>
 </div>
 
-### Hi there 👋
+### Welcome to my Git profile 👋
 
 <!--
 **MFLopezBello/MFLopezBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
