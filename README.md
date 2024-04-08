@@ -1,11 +1,10 @@
 < div id= "header" align="center" >
     <img= src="https://www.canva.com/design/DAGBrR_yPzE/IvpyMtVCba_DBMYbyH_PjQ/edit"/>
-    <h1 align ="center"> Hi there 👋, I am your programmer </h1>
+    <h1 align ="center"> ### Welcome to my Git profile 👋</h1>
     <h3 align ="center"> Hello! I am Marie Lopez, a passionate data analyst with a focus on transforming information into meaningful insights. 
     With a strong background in statistics, programming, and data analysis, I strive to unravel hidden stories in complex data sets. </h3>
 </div>
 
-### Welcome to my Git profile 👋
 
 <!--
 **MFLopezBello/MFLopezBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
