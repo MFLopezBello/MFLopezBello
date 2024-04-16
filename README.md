@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning cybersecurity and online privacy
 
-- 💬 Ask me about **C++, Phyton, SQL, ethical hacking**
+- 💬 Ask me about **C++, Phyton, SQL, Ethical Hacking**
 
 - 📫 How to reach me: [mail](marielopbel231@gmail.com)
 
